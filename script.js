@@ -1,8 +1,5 @@
 function firstChar(text) {
   // your code here
-   if (text === ' '){
-	   return ' '
-   }
    let TrimedText=text.trime();
 	   return TrimedText.CharAt(0);
    }
