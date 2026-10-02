@@ -1,8 +1,7 @@
 function firstChar(text) {
   // your code here
-   let TrimedText=text.trim();
-	   return TrimedText.CharAt(0);
-
+   let trimedText=text.trim();
+	   return trimedText.charAt(0);
 }
 
 // Do not change the code below
